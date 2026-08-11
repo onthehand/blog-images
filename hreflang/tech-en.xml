@@ -437,4 +437,9 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/06/claude-code-1.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/06/i-used-claude-code-to-write-and-publish.html"/>
   </url>
+  <url>
+    <loc>https://tech-en.andhandworks.com/2026/08/claude-code-asks-for-login-after.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/08/claude-code-login-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/08/claude-code-asks-for-login-after.html"/>
+  </url>
 </urlset>
