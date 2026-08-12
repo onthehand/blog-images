@@ -442,4 +442,19 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/08/claude-code-login-2026.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/08/claude-code-asks-for-login-after.html"/>
   </url>
+  <url>
+    <loc>https://tech-en.andhandworks.com/2026/05/automating-blog-updates-with-claude.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/05/claude-code-cron.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/05/automating-blog-updates-with-claude.html"/>
+  </url>
+  <url>
+    <loc>https://tech-en.andhandworks.com/2026/05/building-sd15-controlnet-on-gtx-1660.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/05/gtx-1660-super-sd15-controlnet-vram-ram.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/05/building-sd15-controlnet-on-gtx-1660.html"/>
+  </url>
+  <url>
+    <loc>https://tech-en.andhandworks.com/2026/05/fixing-text-to-speech-muting-system.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/05/text-to-speech-os-ios-audio-session-2026.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/05/fixing-text-to-speech-muting-system.html"/>
+  </url>
 </urlset>
