@@ -7,12 +7,17 @@
 ## 構造
 
 ```
-<post_id>/
-└── <元のファイル名>.jpg
+tech/<post_id>/<ファイル名>   # BlogGen（tech / tech-en の記事）。2026-11 に直下から移行（PR #1）
+hreflang/                     # BlogGen の hreflang サイトマップ
+promo/                        # 共用素材
+travel/ など                  # ほかの worker の画像（各 worker が管理）
 ```
 
-例: `https://onthehand.github.io/blog-images/8709629993119236971/usbhs.jpg`
+BlogGen の画像は `tech/` の下に置く（`scripts/add_image.py`）。直下にあった BlogGen の 39 フォルダは
+`tech/` へ移したあと削除した（BlogGen#119）。直下に残っている数字のフォルダはほかの worker のもの。
+
+例: `https://onthehand.github.io/blog-images/tech/8709629993119236971/usbhs.jpg`
 
 ## 配信
 
-GitHub Pages（main branch / root）で配信。記事 HTML 側は `https://onthehand.github.io/blog-images/<post_id>/<filename>` 形式の URL を参照。
+GitHub Pages（main branch / root）で配信。BlogGen の記事 HTML は `https://onthehand.github.io/blog-images/tech/<post_id>/<filename>` 形式の URL を参照する。
