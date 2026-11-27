@@ -461,4 +461,9 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/11/10-romo-ai9ai.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/11/physical-ai-robot-development-diary-my.html"/>
   </url>
+  <url>
+    <loc>https://tech-en.andhandworks.com/2026/11/how-to-set-up-raspberry-pi-headless.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tech.andhandworks.com/2026/11/raspberry-pi-wi-fi-ssh-2026raspberry-pi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tech-en.andhandworks.com/2026/11/how-to-set-up-raspberry-pi-headless.html"/>
+  </url>
 </urlset>
